@@ -2,7 +2,7 @@
 
 ---
 
-I'm a business analytics and information systems graduate from the University of Iowa.
+I'm a Business Analytics and Information Systems graduate from the University of Iowa.
 
 ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Website Badge](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
