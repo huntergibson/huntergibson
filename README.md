@@ -5,7 +5,7 @@
 I'm a Business Analytics and Information Systems graduate from the University of Iowa.
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>](https://www.linkedin.com/in/hunter-gibson-563499202/)
-[<img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Website Badge"/>](https://huntergibson.me/)
+[<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge"/>](https://huntergibson.me/)
 
 
 ---
