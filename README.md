@@ -11,7 +11,7 @@ I'm a business analytics and information systems graduate from the University of
 
 ### Current Skills
 
-[![Python](https://img.shields.io/badge/Python-Expert-blue)]()
+![Python](https://img.shields.io/badge/Python-Expert-blue)]
 [![PowerBI](https://img.shields.io/badge/PowerBI-Proficient-orange)]()
 [![Tableau](https://img.shields.io/badge/Tableau-Proficient-orange)]()
 [![Excel](https://img.shields.io/badge/Excel-Proficient-orange)]()
